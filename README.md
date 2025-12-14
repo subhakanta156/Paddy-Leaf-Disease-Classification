@@ -1,4 +1,4 @@
-paddy-leaf-diseas-prediction
+# Paddy Leaf Disease Prediction 🌾🧠
 ==============================
 
 A machine learning project to predict paddy leaf diseases using CNN models.
@@ -56,7 +56,7 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-# Paddy Leaf Disease Prediction 🌾🧠
+
 
 This project focuses on **automatic detection and classification of paddy leaf diseases** using **Deep Learning and Computer Vision techniques**. The objective is to assist farmers, researchers, and agricultural practitioners by providing an AI-driven solution for early disease identification from paddy leaf images.
 
@@ -81,5 +81,6 @@ This project aims to:
 ```bash
 git clone https://github.com/subhakanta156/Paddy-Leaf-Disease-Classification.git
 cd Paddy-Leaf-Disease-Classification
+
 
 
